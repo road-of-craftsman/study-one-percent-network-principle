@@ -2,7 +2,7 @@
 - [책 정보](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931556742&orderClick=LEa&Kc=)
 
 ## 📆 기간
-- 일정 : 2022-04-06(수) ~ 2022-05-18(수) 총 7주
+- 일정 : 2022-04-07(목) ~ 2022-05-19(목) 총 7주
 - 매주 목요일 21시에 Google Meet에서 만나요.
 - 스터디 첫째 주에는 간단한 OT를 진행해요.
 
