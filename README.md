@@ -1,6 +1,6 @@
 # 1%의 네트워크 원리 스터디
 - [책 정보](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931556742&orderClick=LEa&Kc=)
-- [신청하기](https://docs.google.com/forms/d/e/1FAIpQLSe1FJltcmlbBjjeYg6_wT1lqdJPxiuRfYPxekb_eVrSY5yB6w/viewform)
+- [신청하기(모집중)](https://docs.google.com/forms/d/e/1FAIpQLSe1FJltcmlbBjjeYg6_wT1lqdJPxiuRfYPxekb_eVrSY5yB6w/viewform)
 
 ## 📆 기간
 - 일정 : 2022-04-07(목) ~ 2022-05-19(목) 총 7주
