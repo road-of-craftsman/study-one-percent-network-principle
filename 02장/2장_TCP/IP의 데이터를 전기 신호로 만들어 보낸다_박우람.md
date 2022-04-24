@@ -52,6 +52,7 @@
 ```
 
 **✔️  소켓의 메세지 송신 동작**  
+
 ![image](https://user-images.githubusercontent.com/56028408/164371702-c3a06672-64e0-4ee6-8419-da6472697a41.png)
 
 
